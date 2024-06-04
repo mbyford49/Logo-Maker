@@ -18,7 +18,7 @@ Here is an example of what the logo may look like.
 To preview the logo after it has been made you can drag and drop the file into your browser, or use the preview function of the SVG extension in VScode.
 
 
-Here is a video of the application in use.
+Here is a link to a video of the application in use.
 
 
 https://app.screencastify.com/v3/watch/UdKryUAcnxE1IzzWPBwS
