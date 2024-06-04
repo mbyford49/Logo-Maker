@@ -12,3 +12,13 @@ Here is an example of what the logo may look like.
 
 
 ![Circle SVG](https://github.com/mbyford49/Logo-Maker/assets/158136936/837819f9-85f4-4470-ac35-09a2f3308800)
+
+
+
+To preview the logo after it has been made you can drag and drop the file into your browser, or use the preview function of the SVG extension in VScode.
+
+
+Here is a video of the application in use.
+
+
+https://app.screencastify.com/v3/watch/UdKryUAcnxE1IzzWPBwS
