@@ -7,5 +7,8 @@ To use this application you will run the following commands in the command line.
 - node index.js  This will start the series of prompts to design and generate the logo.
 - npm test  This will test to ensure the app is running correctly.
 
+Here is an example of what the logo may look like.
+
+
 
 ![Circle SVG](https://github.com/mbyford49/Logo-Maker/assets/158136936/837819f9-85f4-4470-ac35-09a2f3308800)
